@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Aktuálně přemýšlím nad tím, jak se programují fyzikální simulace.
 
 <!--
 **CloudMracek/CloudMracek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
